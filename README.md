@@ -1,6 +1,3 @@
-Here's a sample `README.md` for your project:
-
----
 
 # Digit Recognition from Speech
 
