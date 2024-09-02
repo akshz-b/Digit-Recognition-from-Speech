@@ -1,0 +1,162 @@
+--------------------------------------------* Digit 8 *--------------------------------------------------------
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+---------> Reading file input/dataset/234101006_E_8_21.txt <---------
+observation seq obtained -- 2	2	27	2	27	2	2	2	14	15	15	15	15	13	15	13	4	15	15	13	15	13	13	14	2	2	4	4	4	13	27	
+---> Digit 0 ----- P(Obs/Model) : 4.2853e-030
+---> Digit 1 ----- P(Obs/Model) : 9.61089e-033
+---> Digit 2 ----- P(Obs/Model) : 1.8098e-214
+---> Digit 3 ----- P(Obs/Model) : 7.66184e-041
+---> Digit 4 ----- P(Obs/Model) : 3.66217e-262
+---> Digit 5 ----- P(Obs/Model) : 6.32146e-033
+---> Digit 6 ----- P(Obs/Model) : 4.03016e-038
+---> Digit 7 ----- P(Obs/Model) : 1.28986e-027
+---> Digit 8 ----- P(Obs/Model) : 7.84249e-026
+---> Digit 9 ----- P(Obs/Model) : 3.62423e-029
+Digit Recognized: 8
+Original Digit: 8
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+---------> Reading file input/dataset/234101006_E_8_22.txt <---------
+observation seq obtained -- 2	2	2	2	2	27	27	15	15	15	14	15	15	13	13	13	13	13	27	14	14	14	15	27	27	14	27	31	14	13	23	2	2	2	2	
+---> Digit 0 ----- P(Obs/Model) : 5.11659e-037
+---> Digit 1 ----- P(Obs/Model) : 3.67732e-065
+---> Digit 2 ----- P(Obs/Model) : 6.70848e-222
+---> Digit 3 ----- P(Obs/Model) : 2.32167e-044
+---> Digit 4 ----- P(Obs/Model) : 8.66651e-259
+---> Digit 5 ----- P(Obs/Model) : 1.62792e-065
+---> Digit 6 ----- P(Obs/Model) : 1.61341e-063
+---> Digit 7 ----- P(Obs/Model) : 9.86149e-033
+---> Digit 8 ----- P(Obs/Model) : 4.29271e-026
+---> Digit 9 ----- P(Obs/Model) : 1.30566e-036
+Digit Recognized: 8
+Original Digit: 8
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+---------> Reading file input/dataset/234101006_E_8_23.txt <---------
+observation seq obtained -- 2	2	2	13	27	14	15	15	15	15	15	15	15	15	15	15	15	15	15	15	15	27	27	27	27	27	27	27	27	27	27	3	25	27	2	
+---> Digit 0 ----- P(Obs/Model) : 3.11229e-046
+---> Digit 1 ----- P(Obs/Model) : 3.03194e-047
+---> Digit 2 ----- P(Obs/Model) : 1.83867e-133
+---> Digit 3 ----- P(Obs/Model) : 6.9377e-060
+---> Digit 4 ----- P(Obs/Model) : 0
+---> Digit 5 ----- P(Obs/Model) : 6.58759e-027
+---> Digit 6 ----- P(Obs/Model) : 1.86406e-027
+---> Digit 7 ----- P(Obs/Model) : 4.11192e-037
+---> Digit 8 ----- P(Obs/Model) : 5.81518e-054
+---> Digit 9 ----- P(Obs/Model) : 6.45737e-039
+Digit Recognized: 5
+Original Digit: 8
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+---------> Reading file input/dataset/234101006_E_8_24.txt <---------
+observation seq obtained -- 2	2	2	2	2	2	2	14	15	16	13	13	13	13	16	13	13	16	16	16	16	13	13	13	13	13	13	14	27	4	27	27	27	27	2	
+---> Digit 0 ----- P(Obs/Model) : 4.98462e-208
+---> Digit 1 ----- P(Obs/Model) : 5.16796e-200
+---> Digit 2 ----- P(Obs/Model) : 0
+---> Digit 3 ----- P(Obs/Model) : 2.25987e-223
+---> Digit 4 ----- P(Obs/Model) : 2.85057e-235
+---> Digit 5 ----- P(Obs/Model) : 1.09887e-206
+---> Digit 6 ----- P(Obs/Model) : 5.62023e-043
+---> Digit 7 ----- P(Obs/Model) : 7.63612e-204
+---> Digit 8 ----- P(Obs/Model) : 9.33566e-025
+---> Digit 9 ----- P(Obs/Model) : 2.67604e-044
+Digit Recognized: 8
+Original Digit: 8
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+---------> Reading file input/dataset/234101006_E_8_25.txt <---------
+observation seq obtained -- 2	2	2	2	2	14	14	15	15	15	15	15	15	15	15	16	16	16	14	16	14	27	16	27	10	13	2	2	2	2	4	
+---> Digit 0 ----- P(Obs/Model) : 2.03692e-201
+---> Digit 1 ----- P(Obs/Model) : 1.229e-210
+---> Digit 2 ----- P(Obs/Model) : 1.27771e-247
+---> Digit 3 ----- P(Obs/Model) : 1.90098e-209
+---> Digit 4 ----- P(Obs/Model) : 0
+---> Digit 5 ----- P(Obs/Model) : 5.53645e-203
+---> Digit 6 ----- P(Obs/Model) : 2.10631e-063
+---> Digit 7 ----- P(Obs/Model) : 6.1868e-179
+---> Digit 8 ----- P(Obs/Model) : 9.01067e-026
+---> Digit 9 ----- P(Obs/Model) : 1.5828e-063
+Digit Recognized: 8
+Original Digit: 8
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+---------> Reading file input/dataset/234101006_E_8_26.txt <---------
+observation seq obtained -- 2	27	2	2	2	25	25	25	25	27	26	27	27	27	27	27	27	27	27	27	2	2	2	2	2	2	25	2	2	
+---> Digit 0 ----- P(Obs/Model) : 2.50836e-044
+---> Digit 1 ----- P(Obs/Model) : 5.98249e-055
+---> Digit 2 ----- P(Obs/Model) : 1.1695e-053
+---> Digit 3 ----- P(Obs/Model) : 2.10289e-050
+---> Digit 4 ----- P(Obs/Model) : 2.83349e-054
+---> Digit 5 ----- P(Obs/Model) : 4.41714e-050
+---> Digit 6 ----- P(Obs/Model) : 3.06994e-023
+---> Digit 7 ----- P(Obs/Model) : 1.25368e-050
+---> Digit 8 ----- P(Obs/Model) : 3.38434e-032
+---> Digit 9 ----- P(Obs/Model) : 8.99703e-060
+Digit Recognized: 6
+Original Digit: 8
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+---------> Reading file input/dataset/234101006_E_8_27.txt <---------
+observation seq obtained -- 2	1	2	2	27	27	27	27	4	2	27	26	26	26	14	14	26	26	26	14	27	27	27	27	14	14	14	2	2	13	2	2	2	1	2	
+---> Digit 0 ----- P(Obs/Model) : 1.3445e-088
+---> Digit 1 ----- P(Obs/Model) : 1.64179e-218
+---> Digit 2 ----- P(Obs/Model) : 1.46547e-088
+---> Digit 3 ----- P(Obs/Model) : 2.74425e-228
+---> Digit 4 ----- P(Obs/Model) : 8.27461e-208
+---> Digit 5 ----- P(Obs/Model) : 4.6514e-212
+---> Digit 6 ----- P(Obs/Model) : 7.29628e-095
+---> Digit 7 ----- P(Obs/Model) : 2.46496e-224
+---> Digit 8 ----- P(Obs/Model) : 2.17987e-037
+---> Digit 9 ----- P(Obs/Model) : 2.6676e-208
+Digit Recognized: 8
+Original Digit: 8
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+---------> Reading file input/dataset/234101006_E_8_28.txt <---------
+observation seq obtained -- 2	2	2	2	2	2	2	2	2	26	15	13	26	13	14	14	14	15	14	14	14	14	14	14	13	2	14	13	13	13	2	2	2	2	
+---> Digit 0 ----- P(Obs/Model) : 6.72419e-031
+---> Digit 1 ----- P(Obs/Model) : 3.16787e-090
+---> Digit 2 ----- P(Obs/Model) : 3.97666e-216
+---> Digit 3 ----- P(Obs/Model) : 8.86284e-099
+---> Digit 4 ----- P(Obs/Model) : 1.38546e-146
+---> Digit 5 ----- P(Obs/Model) : 1.88075e-090
+---> Digit 6 ----- P(Obs/Model) : 2.89091e-034
+---> Digit 7 ----- P(Obs/Model) : 1.48725e-085
+---> Digit 8 ----- P(Obs/Model) : 2.78484e-034
+---> Digit 9 ----- P(Obs/Model) : 3.84192e-089
+Digit Recognized: 0
+Original Digit: 8
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+---------> Reading file input/dataset/234101006_E_8_29.txt <---------
+observation seq obtained -- 2	1	2	1	2	2	2	2	13	13	15	15	15	26	26	14	13	26	14	14	14	14	14	14	13	13	2	2	2	2	1	2	2	2	
+---> Digit 0 ----- P(Obs/Model) : 1.04398e-121
+---> Digit 1 ----- P(Obs/Model) : 2.42956e-140
+---> Digit 2 ----- P(Obs/Model) : 3.33844e-207
+---> Digit 3 ----- P(Obs/Model) : 7.00508e-165
+---> Digit 4 ----- P(Obs/Model) : 2.5974e-206
+---> Digit 5 ----- P(Obs/Model) : 2.1352e-126
+---> Digit 6 ----- P(Obs/Model) : 1.59628e-124
+---> Digit 7 ----- P(Obs/Model) : 7.40353e-146
+---> Digit 8 ----- P(Obs/Model) : 8.58425e-033
+---> Digit 9 ----- P(Obs/Model) : 1.21692e-119
+Digit Recognized: 8
+Original Digit: 8
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+---------> Reading file input/dataset/234101006_E_8_30.txt <---------
+observation seq obtained -- 2	2	2	2	1	2	13	15	15	2	2	26	26	26	26	26	27	27	14	27	27	14	13	13	27	2	1	1	2	1	2	
+---> Digit 0 ----- P(Obs/Model) : 1.24081e-152
+---> Digit 1 ----- P(Obs/Model) : 1.63853e-207
+---> Digit 2 ----- P(Obs/Model) : 2.74547e-182
+---> Digit 3 ----- P(Obs/Model) : 9.07449e-241
+---> Digit 4 ----- P(Obs/Model) : 1.66864e-233
+---> Digit 5 ----- P(Obs/Model) : 2.80158e-183
+---> Digit 6 ----- P(Obs/Model) : 6.882e-151
+---> Digit 7 ----- P(Obs/Model) : 2.36916e-191
+---> Digit 8 ----- P(Obs/Model) : 2.41199e-033
+---> Digit 9 ----- P(Obs/Model) : 1.59042e-176
+Digit Recognized: 8
+Original Digit: 8
+Accuracy for the digit 8 is : 70.000000 
